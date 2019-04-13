@@ -6,84 +6,84 @@ Here's a quiz to test your grasp of compound conditional expressions.
 
 # Let's Practice!
 
-?: `false && true`
+?: `False and True`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `true && true`
+?: `True and True`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
 ?: `"test" == "test"`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `10 == 10 || 20 != 10`
+?: `10 == 10 or 20 != 10`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `10 == 10 && 20 == 10`
+?: `10 == 10 and 20 == 10`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `true && 10 == 10`
+?: `True and 10 == 10`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `true || 10 == 10`
+?: `True or 10 == 10`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `false && 10 != 10`
+?: `False and 10 != 10`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
 ?: `"boolean" == "booleans"`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
 ?: `"boolean" != "booleans"`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `10 != 0 && 20 == 10`
+?: `10 != 0 and 20 == 10`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
 ?: `"boolean" == 1`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `!(true && false)`
+?: `not (True and False)`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `!(1000 == 1 || 10000 == 10000)`
+?: `not (1000 == 1 or 10000 == 10000)`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `!(10 == 10 && 20 != 10)`
+?: `not (10 == 10 and 20 != 10)`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `!(1 != 100 || 30 == 40)`
+?: `not (1 != 100 or 30 == 40)`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `!("boolean" == "booleans" && "Code" == "Fun")`
+?: `not ("boolean" == "booleans" and "Code" == "Fun")`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `1 == 1 && (!("boolean" == 1 || 1 == 0))`
+?: `1 == 1 and (not ("boolean" == 1 or 1 == 0))`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
-?: `"strong" == "coffee" && (!(30 == 40 || 30 == 30))`
+?: `"strong" == "coffee" and (not (30 == 40 or 30 == 30))`
 
-( )`true` (X)`false`
+( )`True` (X)`False`
 
-?: `30 == 30 && (!("boolean" == "booleans" || "Coding" == "Awesome"))`
+?: `30 == 30 and (not ("boolean" == "booleans" or "Coding" == "Awesome"))`
 
-(X)`true` ( )`false`
+(X)`True` ( )`False`
 
 ???
